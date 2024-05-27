@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Megament</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Megament merupakan aplikasi Asset Management Tracker</string>
+    <string name="title_welcome_page">Selamat datang!</string>
+    <string name="title_signup_page">Mohon isi data diri terlebih dahulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan nama pengguna dan kata sandi</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page"></string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
