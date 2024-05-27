@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Megament</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Megament merupakan aplikasi Asset Management Tracker</string>
+    <string name="title_welcome_page">Selamat datang!</string>
+    <string name="title_signup_page">Mohon isi data diri terlebih dahulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan nama pengguna dan kata sandi</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page"></string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="emailinvaild">Masukkan Email yang Benar</string>
+    <string name="passwordinvalid">Masukkan Password 8 karakter</string>
+    <string name="logout">Keluar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tittlealertdialog">Berhasil!</string>
+    <string name="contentalertdialog">Selamat Bereksplorasi</string>
+    <string name="next">Selanjutnya</string>
+    <string name="failed">Pendaftaran Gagal</string>
+    <string name="description">Ini deskripsi asset</string>
+    <string name="profilename">Nama Asset</string>
+    <string name="storyEmpty">Assets tidak tersedia</string>
+    <string name="asset_image">Deskripsi</string>
+    <string name="detailQR">{\"id\":1,\n\"name\":\"Asset 1\",\n\"description\":\"This is asset 1\",\n\"depreciation\":0.1,\n\"price\":1000000,\n\"imageURL\":\"https://storage.googleapis.com/megament/images/1-cape.jfif\",\n\"qrCode\":\"https://storage.googleapis.com/megament/qr/1\",\n\"trackerId\":null}</string>
+
+</resources>
