@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page"></string>
+    <string name="title_welcome_page">Selamat datang!</string>
+    <string name="title_signup_page">Mohon diisi terlebih dahulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page"></string>
+    <string name="title_login_page">Silakan masukkan Email dan Password</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page"></string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+</resources>
